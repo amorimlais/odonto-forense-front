@@ -43,22 +43,6 @@ Durante o desenvolvimento, foram trabalhados conhecimentos relacionados a:
 - Desenvolvimento colaborativo em equipe.
 - Transformação de requisitos em soluções digitais.
 
-## 🚀 Como executar o projeto
-
-1. Clone este repositório:
-
-   ```bash
-   git clone URL_DO_REPOSITORIO
-   ```
-
-2. Acesse a pasta do projeto:
-
-   ```bash
-   cd nome-do-projeto
-   ```
-
-3. Abra o arquivo `index.html` no navegador ou utilize o Live Server no Visual Studio Code, conforme a estrutura do projeto.
-
 ## 👩‍💻 Desenvolvimento acadêmico
 
 Projeto Integrador desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas.
