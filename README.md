@@ -1,4 +1,3 @@
-# odonto-forense-front
 # 🦷 OdontoCrim — Plataforma de Gestão de Perícias Odonto-Legais
 
 Projeto desenvolvido como **Projeto Integrador da faculdade**, com o objetivo de criar uma aplicação voltada à área de perícia odontológica criminal, auxiliando na organização e gestão de informações relacionadas a laudos periciais e processos de identificação odonto-legal.
